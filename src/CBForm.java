@@ -18,7 +18,6 @@ public class CBForm extends JFrame{
     private JPanel cb2Pane;
     private JTextPane tpFilePath;
     private JButton bOK;
-    //todo add functionality to cancel button
     private JButton bCancel;
     private ArrayList<String> fNames = new ArrayList<>();
     private ArrayList<String> folderNames = new ArrayList<>();
